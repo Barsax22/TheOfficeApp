@@ -1,0 +1,84 @@
+{
+  "Characters": [
+    {
+      "name": "Michael Scott",
+      "description": "Regional manager of the Scranton, Pennsylvania branch of Dunder Mifflin, a paper company",
+      "image": "michael_scott"
+    },
+    {
+      "name": "Jim Halpert",
+      "description": "Sales representative at the Scranton branch of paper distribution company Dunder Mifflin",
+      "image": "jim_halpert"
+    },
+    {
+      "name": "Pam Beesley",
+      "description": "receptionist at the paper distribution company Dunder Mifflin",
+      "image": "pam_beesley"
+    },
+    {
+      "name": "Dwight Kurt Schrute",
+      "description": "A salesman and assistant to Michael Scott, at the paper company Dunder Mifflin",
+      "image": "dwight_schrute"
+    },
+    {
+      "name": "Phyllis Lapin",
+      "description": "A sales representative at the paper distributor Dunder Mifflin",
+      "image": "phyllis_lapin"
+    },
+    {
+      "name": "Angela Martin",
+      "description": "A senior accountant, head of the Party Planning Committee, and safety officer at the Scranton branch of Dunder Mifflin",
+      "image": "angela_martin"
+    },
+    {
+      "name": "Oscar Martinez",
+      "description": "An accountant at the Scranton branch office of Dunder Mifflin",
+      "image": "oscar_martinez"
+    },
+    {
+      "name": "Toby Flenderson",
+      "description": "Human resources rep for the Scranton branch of paper distributor Dunder Mifflin",
+      "image": "toby_flenderson"
+    },
+    {
+      "name": "Kelly Kapoor",
+      "description": "She is the customer service representative at the Scranton branch of Dunder Mifflin",
+      "image": "kelly_kapoor"
+    },
+    {
+      "name": "Ryan Howard",
+      "description": "He is a temporary employee at the Scranton branch",
+      "image": "ryan_howard"
+    },
+    {
+      "name": "Meredith Palmer",
+      "description": "An accountant at the Scranton branch office of Dunder Mifflin",
+      "image": "meredith_palmer"
+    },
+    {
+      "name": "Andy Bernard",
+      "description": "Regional Director in Charge of Sales at the Stamford branch of paper distribution company, Dunder Mifflin ",
+      "image": "andy_bernard"
+    },
+    {
+      "name": "Stanley Hudson",
+      "description": "A sales representative at Dunder Mifflin",
+      "image": "stanley_hudson"
+    },
+    {
+      "name": "Kevin Malone",
+      "description": "A part of the accounting department at the Scranton branch of Dunder Mifflin",
+      "image": "kevin_malone"
+    },
+    {
+      "name": "Roy Anderson",
+      "description": "A warehouse dock worker at the Scranton branch of Dunder Mifflin",
+      "image": "roy_anderson"
+    },
+    {
+      "name": "Creed Bratton",
+      "description": "He is the quality assurance representative for the Scranton branch",
+      "image": "creed_bratton"
+    }
+  ]
+}
